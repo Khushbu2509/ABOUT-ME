@@ -3,8 +3,7 @@
 # Hi, I'm Khushbu Gandhi 👋
 
 I’m a Computer Science & Engineering student specializing in Cybersecurity.  
-I enjoy building simple, impactful solutions — from no-code Salesforce apps to AI tools for web security.
-
+I enjoy building creative, impactful solutions.
 Along with development, I’m keenly interested in Product Management and Consulting, and I love solving real-world business problems through tech and strategy.
 
 **💻 Current Projects:**  
